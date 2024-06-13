@@ -1,0 +1,50 @@
+body{
+    background-color: seagreen;
+    text-align: center;
+}
+h1,h3{
+    padding-top: 20px;
+    color: seashell;
+}
+.box {
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 30px;
+}
+input{
+    font-size: 25px;
+    height: 40px;
+    width: 500px;
+    margin-top: 60px;
+    border-radius: 10px;
+    border: groove;
+}
+#result {
+    border-style: groove;
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 250px;
+    text-align: left;
+}
+#btn{
+    width: 90px;
+    font-size: 20px;
+    
+}
+p{
+    padding: 30px;
+    font-size: 30px;
+    margin: auto;
+    margin-right: 510px;
+}
+u{
+    text-decoration: none;
+}
+a{
+    font-size: 20px;
+}
